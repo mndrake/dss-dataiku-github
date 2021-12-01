@@ -3,7 +3,8 @@
     "custom_methods": {
       "remote": "https://github.com/mndrake/dataiku-resource-demo.git",
       "checkout": "main",
-      "remotePath": "code"
+      "remotePath": "code",
+      "lastHash": "7d6e7be46cfe233553645b1672b40de01f03bc61"
     }
   },
   "pythonPath": [

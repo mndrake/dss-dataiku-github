@@ -1,5 +1,11 @@
 {
-  "gitReferences": {},
+  "gitReferences": {
+    "python": {
+      "remote": "https://github.com/mndrake/dataiku-resource-demo.git",
+      "checkout": "refs/heads/main",
+      "remotePath": "code"
+    }
+  },
   "pythonPath": [
     "python"
   ],

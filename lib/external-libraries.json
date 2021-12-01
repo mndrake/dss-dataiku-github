@@ -1,6 +1,14 @@
 {
-  "gitReferences": {},
-  "pythonPath": [],
+  "gitReferences": {
+    "custom_methods": {
+      "remote": "https://github.com/mndrake/dataiku-resource-demo.git",
+      "checkout": "main",
+      "remotePath": "code"
+    }
+  },
+  "pythonPath": [
+    "custom_methods"
+  ],
   "rsrcPath": [
     "R"
   ],

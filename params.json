@@ -33,7 +33,7 @@
               "useProxy": true,
               "username": "mndrake",
               "accessToken": "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",
-              "repository": "mndrake/dataiku-resource-demo"
+              "repository": "mndrake/dss-dataiku-github"
             }
           }
         }
@@ -195,11 +195,11 @@
     }
   },
   "versionTag": {
-    "versionNumber": 1,
+    "versionNumber": 2,
     "lastModifiedBy": {
       "login": "admin"
     },
-    "lastModifiedOn": 1638461853166
+    "lastModifiedOn": 1638461953392
   },
   "creationTag": {
     "versionNumber": 0,

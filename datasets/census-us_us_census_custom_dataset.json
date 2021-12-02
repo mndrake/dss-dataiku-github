@@ -27,11 +27,11 @@
     "dimensions": []
   },
   "versionTag": {
-    "versionNumber": 0,
+    "versionNumber": 1,
     "lastModifiedBy": {
       "login": "admin"
     },
-    "lastModifiedOn": 1638462318811
+    "lastModifiedOn": 1638462837036
   },
   "creationTag": {
     "versionNumber": 0,
@@ -49,7 +49,7 @@
       "param_delete_census_sources": true,
       "param_state_list": "il",
       "param_census_content": "ACS5Y2017",
-      "param_fields": "B00001_001E,B08534_001E"
+      "param_fields": "B00001_001E"
     },
     "notReadyIfEmpty": false,
     "previewAllPartitions": false

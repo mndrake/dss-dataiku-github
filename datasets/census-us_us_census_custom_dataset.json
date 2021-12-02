@@ -27,11 +27,11 @@
     "dimensions": []
   },
   "versionTag": {
-    "versionNumber": 2,
+    "versionNumber": 3,
     "lastModifiedBy": {
       "login": "admin"
     },
-    "lastModifiedOn": 1638463008873
+    "lastModifiedOn": 1638463449112
   },
   "creationTag": {
     "versionNumber": 0,
@@ -40,7 +40,9 @@
     },
     "lastModifiedOn": 1638462318811
   },
-  "tags": [],
+  "tags": [
+    "census"
+  ],
   "params": {
     "customConfig": {
       "param_state_format": "state_2letters",

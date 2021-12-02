@@ -23,7 +23,20 @@
     "gitCommitMode": "AUTO",
     "disableAutomaticTriggers": false,
     "integrations": {
-      "integrations": []
+      "integrations": [
+        {
+          "active": true,
+          "hook": {
+            "type": "github",
+            "configuration": {
+              "useProxy": true,
+              "username": "mndrake",
+              "accessToken": "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",
+              "repository": "mndrake/dataiku-resource-demo"
+            }
+          }
+        }
+      ]
     },
     "flowBuildSettings": {
       "mergeSparkPipelines": false,
@@ -179,6 +192,13 @@
     "displayedState": {
       "checks": []
     }
+  },
+  "versionTag": {
+    "versionNumber": 0,
+    "lastModifiedBy": {
+      "login": "admin"
+    },
+    "lastModifiedOn": 1638461487468
   },
   "creationTag": {
     "versionNumber": 0,

@@ -27,11 +27,11 @@
     "dimensions": []
   },
   "versionTag": {
-    "versionNumber": 1,
+    "versionNumber": 2,
     "lastModifiedBy": {
       "login": "admin"
     },
-    "lastModifiedOn": 1638462837036
+    "lastModifiedOn": 1638463008873
   },
   "creationTag": {
     "versionNumber": 0,
@@ -66,10 +66,6 @@
       },
       {
         "name": "B00001_001E",
-        "type": "string"
-      },
-      {
-        "name": "B08534_001E",
         "type": "string"
       },
       {

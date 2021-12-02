@@ -1,5 +1,7 @@
 {
   "tags": {
-    "census": {}
+    "census": {
+      "color": "#94be8e"
+    }
   }
 }

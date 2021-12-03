@@ -138,7 +138,7 @@
       }
     }
   },
-  "name": "Dataiku Github",
+  "name": "Dataiku Github (test)",
   "metrics": {
     "probes": [],
     "engineConfig": {
@@ -194,11 +194,11 @@
     }
   },
   "versionTag": {
-    "versionNumber": 5,
+    "versionNumber": 6,
     "lastModifiedBy": {
       "login": "admin"
     },
-    "lastModifiedOn": 1638561737299
+    "lastModifiedOn": 1638561740691
   },
   "creationTag": {
     "versionNumber": 0,
@@ -207,7 +207,7 @@
     },
     "lastModifiedOn": 1638378658168
   },
-  "shortDesc": "The project *Dataiku Github* was created by Administrator on Dec 01st 2021",
+  "shortDesc": "The project *Dataiku Github* was created by Administrator on Dec 01st 2021\nThe project *DATAIKU_GITHUB_TEST* was copied from *DATAIKUGITHUB* by Administrator on Dec 03rd 2021",
   "tags": [
     "duplicated"
   ],
